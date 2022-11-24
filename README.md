@@ -26,10 +26,10 @@
             <a href="https://github.com/danny7128">이성훈 깃허브</a>
         </p>
 		<p>
-       		<a href=" https://github.com/ccmmaa1030">최민아 깃허브</a>
+       		<a href="https://github.com/ccmmaa1030">최민아 깃허브</a>
         </p>
         <p>
-       		<a href=" https://github.com/hady1024">하두연 깃허브</a>
+       		<a href="https://github.com/hady1024">하두연 깃허브</a>
         </p>
 
 
